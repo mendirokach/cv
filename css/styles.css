@@ -1,0 +1,125 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+   color: #40514E;
+}
+
+
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #66BFBF;
+}
+
+hr {
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+  width: 5%;
+  border-color: #EAF6F6;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 30px 0 30px 0;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile {
+  margin-bottom: 3.5rem;
+}
+
+.profile-pic {
+  margin-top: 50px;
+  height: 180px;
+  width: 180px;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chess-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  margin: 100px auto 100px auto;
+  width: 30%;
+}
+.contact-me-button-div{
+  margin-top: 50px;
+}
+
+.contact-me-button {
+  background-image: linear-gradient(#11cdd4,  #11999e);
+  border-radius: 15px;
+  color: white;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.contact-me-button:hover {
+  background-image: linear-gradient(#30e3cb, #2bc4ad);
+}
+
+.footer-link{
+  color:#11999E;
+  text-decoration: none;
+  margin: 0 35px 0 5px;
+
+}
+.footer-link:hover{
+  color: #EAF6F6;
+}
+
+.footer-p{
+  color: #EAF6F6;
+  margin-top: 40px;
+  margin-bottom: 0px;
+  font-size: 0.75rem;
+}
